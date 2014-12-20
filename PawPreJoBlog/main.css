@@ -1,0 +1,48 @@
+﻿.pholisa {
+	border: 5px solid blue !important;
+	margin: 15px;
+	
+}
+
+.jongi {
+	border: 5px solid red !important;
+	margin: 15px;
+	
+}
+
+.pretty {
+	border: 5px solid purple !important;
+	margin: 15px;
+	
+}
+
+* {
+	-webkit-box-sizing:border-box;
+	-moz-box-sizing:border-box;
+	-ms-box-sizing:border-box;
+	box-sizing:border-box;
+}
+
+h1 {
+	text-align: center;
+
+}
+
+h2 {
+	text-decoration: underline;
+
+}
+
+body {
+	background-color: yellow;
+
+}
+
+a {
+	position: absolute; right: 15px;
+	font-style: italic;
+
+}
+footer {
+	text-align: left;
+}

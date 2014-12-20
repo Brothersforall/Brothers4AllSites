@@ -1,0 +1,91 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+   <title>our html!!</title>
+   <meta charset="utf-8">
+
+
+
+</head>
+<style>
+body {
+  background-color:#aaabbb;
+}
+ .Sbuja {
+  background:yellow;
+  border:2px solid black;
+  border-radius: 5px 5px 5px 5px;
+  padding:20px;
+}
+ .lilly {
+  background:yellow;
+  border:2px solid red;
+  border-radius: 5px 5px 5px 5px;
+  padding:20px;
+}
+ .Mzi {
+  background:yellow;
+  border:2px solid blue;
+  border-radius: 5px 5px 5px 5px;
+  padding:20px;
+}
+h1 {
+ color:green;
+  text-align:center;
+
+}
+p{
+ color:black; 
+ text-align:center;
+
+}
+li {
+ float: right;
+ text-decoration:none;
+ display:block;
+
+}
+</style>
+<body>
+
+ <header>
+   <h1>Fabiani</h1>
+  
+ </header>
+  
+ <div class="Sbuja">
+  
+  <header>
+    <h1>Sbuja-01</h1>
+ <p>"We have sent officials from our embassy to where the incident took place,"<br />
+       said departmental spokesperson Nelson Kgwete.</p>
+    <li><a href="file:///C:/Users/Sihle/Desktop/litha.html#">Home</a></li>
+  </header>
+ 
+
+      
+ </div>
+ 
+ <div class="lilly">
+   <header>
+    <h1>Lilly</h1>
+  </header>
+     <p>Johannesburg - South African embassy officials in Ireland are investigating the deaths of an expat couple there,<br />
+   the international affairs department said on Friday.</p>
+    <li><a href="file:///C:/Users/Sihle/Desktop/brothersforall.html/about.html#">About</a></li>
+ </div>
+
+ <div class="Mzi">
+   <header>
+    <h1>Mzi-03</h1>
+  </header>
+    <p>Johannesburg - South African embassy officials in Ireland are investigating the deaths of an expat couple there,<br />
+       the international affairs department said on Friday</p>
+   <li><a href="file:///C:/Users/Sihle/Desktop/brothersforall.html/pictures.html">Pictures</a></li>
+
+ </div>
+<footer>
+<small>by litha brothers for all © 2014 :-) </small>
+</footer>
+</body>
+</html>

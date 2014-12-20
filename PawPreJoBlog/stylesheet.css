@@ -1,0 +1,44 @@
+﻿<title>stylesheet.css</title>
+<body>
+body {
+  background-color: grey;
+}
+h1 {
+     background-color: cyan;
+     font-family: Verdana, serif;
+     text-align: center;
+}
+
+img {
+     max-width: auto;
+     height: 100%;
+}
+
+.starter {
+      background-image: url("starter.jpg");
+      background-repeat: repeat-x;
+      border: 5px solid purple;
+      margin: 5px;
+  }
+
+.main {
+     background-image: url("main course.jpg");
+     backgound-repeat: repeat-x;
+     border: 5px solid red;
+     margin: 5px;
+}
+
+.dessert {
+    background-image: url("dessert.png");
+    background-repeat: repeat-x;
+    border: 5px solid blue;
+    margin: 5px;
+ 
+}
+
+footer {
+      background-color: magenta;
+      font-family: Cursive;
+      text-align: center;
+      margin: 80px;
+}

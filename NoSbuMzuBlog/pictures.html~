@@ -1,0 +1,114 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+   <title>pictures</title>
+   <meta charset="utf-8">
+
+</head>
+<style>
+ body {
+ background-color:blue;
+ 
+}
+header {
+ text-align:center;
+ color: red;
+ font-family:cursive;
+
+}
+.img-1 h1 {
+  color:green;
+
+}
+.img-2 h1 {
+ color:red;
+
+}
+.img-3 h1 {
+ color: violet;
+}
+.desert {
+ border:2px solid black;
+ width: 50px;
+ height:50px;
+
+}
+.img-1 {
+    margin: 5px;
+    padding: 5px;
+    border: 1px solid #aaabbb;
+    border-radius:10px;
+    height: auto;
+    width: auto;
+    background-color: yellow;
+}
+.img-2 {
+    margin: 5px;
+    padding: 5px;
+    border: 1px solid red;
+    border-radius:10px;
+    height: auto;
+    width: auto;
+    background-color: violet;
+}
+.img-3 {
+    margin: 5px;
+    padding: 5px;
+    border: 1px solid yellow;
+    border-radius:10px;
+    height: auto;
+    width: auto;
+    background-color:orange;
+}
+img {
+  height:200px;
+  width:90%;
+  border-radius:10px;
+}
+footer {
+ color: orange;
+ text-align: center;
+ padding:10px;
+}
+
+</style>
+<body>
+
+ <header>
+   <h1>pictures</h1>
+  
+ </header>
+
+<div class="img-1"> 
+  <header>
+    <h1>img-1</h1>
+  </header>
+    
+   <img src="desert.jpg"  width="110" height="90"  />
+   </div>
+
+ <div class="img-2">
+   <header>
+    <h1>img-2</h1>
+  </header>
+   <img src="jellyfish.jpg"  width="110" height="90" />
+ </div>
+
+ <div class="img-3">
+   <header>
+     <h1>img-3</h1>
+  </header>
+<img src="hydrangeas.jpg"  width="110" height="90" />
+ </div>
+
+<footer>
+ <small>Made in brothers4all © 2014 by Litha</small>
+</footer>
+
+</body>
+</html>
+
+
+
+
+
